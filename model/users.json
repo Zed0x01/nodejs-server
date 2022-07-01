@@ -1,0 +1,24 @@
+[
+  {
+    "username": "walt1",
+    "password": "$2b$10$7uxCHGSWgmVgYCyhHON8luJL6MsghX0wvyhYbfDDKgyxU2.t8EPmS"
+  },
+  {
+    "username": "sherif",
+    "roles": { "admin": 5051, "editor": 2021 },
+    "password": "$2b$10$lCH3TzZuNwKdwKcxrVpbHui4ItAW6BbAbzqxj7YiHkeb45GUYe7vC",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNoZXJpZiIsImlhdCI6MTY1NjQ3Mjk1MCwiZXhwIjoxNjU2NTU5MzUwfQ.M3k-x9kOK8GoV1cfIKd6qM4YQD2zGPkcWSJgbKE54jc"
+  },
+  {
+    "username": "user",
+    "roles": { "user": 501 },
+    "password": "$2b$10$DTkweXfXwvrwgquJ7Gj2Hu.FUviCJp51ZHhAnz2ZmJ4t.D9Jit9f6",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIiLCJpYXQiOjE2NTY0NzY0MDksImV4cCI6MTY1NjU2MjgwOX0.mjRkdWcv1EkdndKun9KpzQSzLvGsA9GPLy172IpeaGI"
+  },
+  {
+    "username": "ahmedSayed",
+    "roles": { "admin": 5051, "editor": 2021 },
+    "password": "$2b$10$b5Sof9Xr1eW8hJdMcMLwF.azn.TNJLPaN8ML1oEXLXRrnzX5AFcZW",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFobWVkU2F5ZWQiLCJpYXQiOjE2NTY1MjY0NDksImV4cCI6MTY1NjYxMjg0OX0.R0uFBIB2_yhkvDgYFDNSnxPVuiCnUW1yI9RTBClD5GQ"
+  }
+]
